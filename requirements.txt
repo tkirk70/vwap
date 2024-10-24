@@ -68,16 +68,7 @@ multitasking==0.0.11
     # via yfinance
 narwhals==1.10.0
     # via altair
-numpy==2.0.2
-    # via
-    #   -r requirements.in
-    #   contourpy
-    #   matplotlib
-    #   pandas
-    #   pyarrow
-    #   pydeck
-    #   streamlit
-    #   yfinance
+numpy==1.26.3
 packaging==24.1
     # via
     #   altair
