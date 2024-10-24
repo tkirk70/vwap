@@ -1,6 +1,5 @@
 streamlit
 pandas
-pandas-ta
 pandas_ta
-numpy==1.26.3
-setuptools==58.0.4
+numpy
+setuptools
