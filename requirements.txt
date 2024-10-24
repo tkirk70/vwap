@@ -1,3 +1,5 @@
+pip --upgrade
+pip install pandas_ta
 streamlit
 pandas
 pandas_ta
