@@ -1,4 +1,4 @@
-pip --upgrade
+pip install --upgrade
 pip install pandas_ta
 streamlit
 pandas
