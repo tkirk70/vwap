@@ -1,0 +1,6 @@
+streamlit
+pandas
+numpy
+matplotlib.pyplot
+pandas_ta
+yfinance
