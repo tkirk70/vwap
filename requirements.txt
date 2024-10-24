@@ -1,4 +1,4 @@
 streamlit
-pandas==1.5.3
+pandas==2.2.3
 pandas_ta
-numpy==1.26.3
+numpy==2.1.2
